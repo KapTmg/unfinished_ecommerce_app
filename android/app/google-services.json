@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "92302496823",
+    "project_id": "e-commerce-app-83ac6",
+    "storage_bucket": "e-commerce-app-83ac6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92302496823:android:70d1607d584befd0981bb2",
+        "android_client_info": {
+          "package_name": "com.kapil.np"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92302496823-7qepk30g6od3aqtm8n8p30eh1igv8939.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsrBwqc9pmiUpM7X_66E6NfXrp75vXzl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92302496823-7qepk30g6od3aqtm8n8p30eh1igv8939.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "92302496823-nr52c0orl1sk29715iqkpihqkhr8oh0a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecommerceApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
